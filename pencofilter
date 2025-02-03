@@ -1,11 +1,11 @@
 {
-    "IsOnOff": false,
+    "IsOnOff": true,
     "Languages": ["Russian"],
     "TimeRewards": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "LinkinSpheres": 
     [ 
-          { "Lang":"Russian", "Links": [""] }
+          { "Lang":"Russian", "Links": ["https://partnerprofitboost.com/4dCNehUg/"] }
     ]
 }
